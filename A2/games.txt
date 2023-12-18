@@ -1,0 +1,7 @@
+#You can use this file for the purpose of your self-assessment exercise.  
+#In 100-250 words, answer the question: what did I learn in the games unit?
+
+Interestingly, I saw a computer science implementation of the topic "Game Theory" that I was taught in my economics class. Therefore, I was already a little familiar with the topic but
+I was intrigued by the fact that recursion could be implemented in a way in max,min algorithms to come up with an Othello project. Additionally, I found the idea of Alpha-Beta pruning really smart
+in a sense that it improves the runtime drastically. When I was thinking of the logic of min-max algorithms in the beginning, I would have never thought of the pruning algorithms, therefore, I feel like
+this project also contributed to my approach towards problems. I still have plenty of question about how to implement further heuristics because I think mine could not even work. 
